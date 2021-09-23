@@ -1,0 +1,40 @@
+{
+	"Title":"Titanic",
+	"YearOfRelease":1995,
+	"Genre":"Romance",
+	"RunningTime":160
+}
+{
+	"Title":"Inception",
+	"YearOfRelease":2010,
+	"Genre":"Fiction",
+	"RunningTime":160
+}
+{
+	"Title":"Incidious",
+	"YearOfRelease":2012,
+	"Genre":"Horror",
+	"RunningTime":160
+}
+{
+	"Title":"Attack",
+	"YearOfRelease":2012,
+	"Genre":"Thriller",
+	"RunningTime":160
+}
+{
+	"MovieId":1,
+	"UserId":1,
+	"Rating":4
+}
+{
+	"MovieId":1,
+	"UserId":2,
+	"Rating":2
+}
+{
+	"UserName":"Pujan"
+}
+{
+	"UserName":"Deb"
+}

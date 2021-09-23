@@ -1,1 +1,1 @@
-# MovieRating
+# MoviesRatingApp1
